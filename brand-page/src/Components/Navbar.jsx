@@ -1,5 +1,5 @@
 import '../App.css'
-function MyComponent(){
+function NavBar(){
     return(
         <div >
             <nav >
@@ -19,4 +19,4 @@ function MyComponent(){
     )
 }
 
-export default MyComponent;
+export default NavBar;
